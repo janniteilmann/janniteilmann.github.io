@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Om Janni
-permalink: /om-janni/
+title: Janni
+permalink: /janni/
 ---
 
 Jeg har absolut ingen idé om, hvem jeg er.
